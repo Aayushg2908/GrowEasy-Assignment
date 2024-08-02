@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Ad Banner 1",
+        "description": "This is the description for ad banner 1.",
+        "cta": "Learn More",
+        "image": "/ad1.webp",
+        "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+    },
+    {
+        "title": "Ad Banner 2",
+        "description": "This is the description for ad banner 2.",
+        "cta": "Sign Up",
+        "image": "/ad2.webp",
+        "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+    },
+    {
+        "title": "Ad Banner 3",
+        "description": "This is the description for ad banner 3.",
+        "cta": "Buy Now",
+        "image": "/ad3.webp",
+        "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+    },
+    {
+        "title": "Ad Banner 4",
+        "description": "This is the description for ad banner 4.",
+        "cta": "Subscribe",
+        "image": "/ad4.webp",
+        "template": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png"
+    }
+]
